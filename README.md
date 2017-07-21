@@ -8,7 +8,7 @@ Install extension for Chrome browser [Custom JavaScript for websites](https://ch
 
 Open configuration of [cjs](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija)
 browser extension on the site you want to controll. Click on the link "your own external scripts",
-add path https://cdn.rawgit.com/Galbator1x/34_timemachine/d445f755/index.js .
+add path `https://cdn.rawgit.com/Galbator1x/34_timemachine/d445f755/index.js`.
 Don\`t forget to press "enable cjs for this host" to enable custom JS.
 
 In the upper left corner of the site a timer will be displayed for 3 minutes.
